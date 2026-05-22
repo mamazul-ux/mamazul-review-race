@@ -1,0 +1,6 @@
+{
+  "name": "Mamazul Review Race",
+  "description": "Leaderboard app for Mamazul Tulum that tracks waiter mentions in Google reviews across months and years with animated graphs, bonus tracking, and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
